@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,9 +88,22 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
