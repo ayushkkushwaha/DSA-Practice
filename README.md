@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0053-maximum-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -104,6 +105,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -127,4 +129,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0046-permutations) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
