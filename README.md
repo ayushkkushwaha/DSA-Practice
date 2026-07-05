@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
