@@ -4,14 +4,11 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        vector < vector<int>> ans(n,vector<int>(n));
+        for (int row = 0; row < n; row++)
+            for (int col = row+1; col < m; col++)
+                swap(matrix[row][col], matrix[col][row]);
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                ans[j][n - i - 1] = matrix[i][j];
-            }
-        }
-
-        matrix = ans;
+        for (int row = 0; row < n; row++)
+            reverse(matrix[row].begin(), matrix[row].end());
     }
 };
