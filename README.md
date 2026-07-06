@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -105,6 +106,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -133,4 +135,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
