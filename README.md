@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0031-next-permutation](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0075-sort-colors) |
@@ -138,5 +139,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
