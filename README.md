@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,8 +160,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
