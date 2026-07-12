@@ -96,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0493-reverse-pairs](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
+| [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -205,4 +208,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
