@@ -1,32 +1,23 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-
-        int leftToRight = 1;
-        int maxPrd = INT_MIN;
+        int pre = 1;
+        int suf = 1;
+        int res = INT_MIN;
         int n = nums.size();
-        int j = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (leftToRight == 0)
-                leftToRight = 1;
+        for (int i = 0; i < n; i++) {
+            if (pre == 0)
+                pre = 1;
+            if (suf == 0)
+                suf = 1;
 
-            leftToRight *= nums[i];
+            pre *= nums[i];
+            suf *= nums[n - i - 1];
 
-            maxPrd = max(leftToRight, maxPrd);
+            res = max(res, max(pre, suf));
         }
 
-        int rightToLeft = 1;
-
-        for (int i = n - 1; i >= 0; i--) {
-            if (rightToLeft == 0)
-                rightToLeft = 1;
-
-            rightToLeft *= nums[i];
-
-            maxPrd = max(rightToLeft, maxPrd);
-        }
-
-        return maxPrd;
+        return res;
     }
 };
