@@ -99,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0229-majority-element-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
@@ -133,6 +134,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0162-find-peak-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
