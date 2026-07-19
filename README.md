@@ -102,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -137,6 +138,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
