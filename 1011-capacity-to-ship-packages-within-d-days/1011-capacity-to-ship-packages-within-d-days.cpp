@@ -1,46 +1,44 @@
 class Solution {
 public:
-    int getDays(vector<int>& weights, int capacity) {
+    int getDays(vector<int>& weights, int cap) {
+        int load = 0;
         int days = 1;
-        int currentLoad = 0;
 
-        for (int w : weights) {
-            if (currentLoad + w > capacity) {
+        for (auto i : weights) {
+            if (load + i > cap) {
                 days++;
-                currentLoad = w;
-            } else {
-                currentLoad += w;
-            }
+                load = i;
+            } else
+                load += i;
         }
-        // Return total days needed
+
         return days;
     }
     int shipWithinDays(vector<int>& weights, int days) {
 
-        int minCapacity = INT_MIN;
-        int maxCapacity = 0;
+        int minC = 0;
+        int maxC = 0;
+
         for (auto i : weights) {
-            maxCapacity += i;
-            minCapacity = max(i, minCapacity);
+            minC = max(i, minC);
+            maxC += i;
         }
 
-        int left = minCapacity;
-        int right = maxCapacity;
-        int res = -1;
+        int left = minC;
+        int right = maxC;
+        int ans = -1;
 
         while (left <= right) {
 
             long long mid = (left + right) / 2;
 
-            int tentativeDays = getDays(weights, mid);
-
-            if (tentativeDays <= days) {
-                res = mid;
+            if (getDays(weights, mid) <= days) {
+                ans = mid;
                 right = mid - 1;
             } else
                 left = mid + 1;
         }
 
-        return res;
+        return ans;
     }
 };
