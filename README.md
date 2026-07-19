@@ -194,6 +194,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Indexed Tree
@@ -237,9 +238,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
