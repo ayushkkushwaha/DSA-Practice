@@ -168,6 +168,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0118-pascals-triangle](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Indexed Tree
 |  |
@@ -232,4 +234,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0344-reverse-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0344-reverse-string) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
