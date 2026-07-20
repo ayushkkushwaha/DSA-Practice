@@ -193,6 +193,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
@@ -238,6 +239,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
