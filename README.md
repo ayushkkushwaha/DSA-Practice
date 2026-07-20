@@ -164,6 +164,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,6 +178,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0046-permutations) |
 ## Union-Find
 |  |
@@ -234,6 +236,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0344-reverse-string) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 ## Recursion
