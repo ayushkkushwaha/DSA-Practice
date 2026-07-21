@@ -1,45 +1,22 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
-        int pivot = -1;
+    void getPer(int idx, vector<vector<int>>& res, vector<int>& nums) {
 
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                pivot = i;
-                break;
-            }
-        }
-
-        if (pivot == -1) {
-            reverse(nums.begin(), nums.end());
+        if (idx == nums.size() - 1) {
+            res.push_back(nums);
             return;
         }
 
-        // find next greater the pivot
-        for (int i = n - 1; i > pivot; i--) {
-            if (nums[i] > nums[pivot]) {
-                swap(nums[i], nums[pivot]);
-                break;
-            }
+        for (int i = idx; i < nums.size(); i++) {
+            swap(nums[i], nums[idx]);
+            getPer(idx + 1, res, nums);
+            swap(nums[i], nums[idx]);
         }
-
-        // for next permutation after pivot we return the small no as possible
-        reverse(nums.begin() + pivot + 1, nums.end());
-        return;
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
 
-        bool doNext = true;
-
-        while (doNext) {
-            ans.push_back(nums);
-            nextPermutation(nums);
-            if (find(ans.begin(), ans.end(), nums) != ans.end())
-                break;
-        }
-
-        return ans;
+        vector<vector<int>> res;
+        getPer(0, res, nums);
+        return res;
     }
 };
