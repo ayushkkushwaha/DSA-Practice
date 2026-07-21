@@ -180,6 +180,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0077-combinations) |
 ## Union-Find
 |  |
 | ------- |
