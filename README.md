@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0031-next-permutation](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -179,6 +180,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0077-combinations) |
 ## Union-Find
