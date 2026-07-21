@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0056-merge-intervals](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -187,6 +188,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0046-permutations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0216-combination-sum-iii) |
 ## Union-Find
 |  |
@@ -260,5 +262,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
