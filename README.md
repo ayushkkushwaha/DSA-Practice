@@ -153,6 +153,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -250,6 +251,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 ## Recursion
 |  |
@@ -267,4 +269,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0078-subsets](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
