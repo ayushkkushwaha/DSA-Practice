@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -147,6 +148,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -168,6 +170,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Counting
@@ -212,6 +215,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0054-spiral-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
