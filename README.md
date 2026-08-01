@@ -150,6 +150,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -298,4 +299,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0011-container-with-most-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
