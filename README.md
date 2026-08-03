@@ -195,6 +195,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0054-spiral-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 ## Recursion
 |  |
@@ -303,4 +305,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
