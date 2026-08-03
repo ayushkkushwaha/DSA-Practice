@@ -308,5 +308,18 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
