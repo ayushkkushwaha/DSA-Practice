@@ -326,8 +326,25 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
