@@ -329,6 +329,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -340,6 +341,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -350,6 +352,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
