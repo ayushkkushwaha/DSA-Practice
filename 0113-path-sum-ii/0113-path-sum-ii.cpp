@@ -22,7 +22,6 @@ public:
         if (!root->right && !root->left) {
             if (sum == targetSum)
                 res.push_back(temp);
-            temp.pop_back();
             return;
         }
 
