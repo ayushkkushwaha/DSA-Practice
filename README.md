@@ -333,6 +333,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
@@ -352,6 +353,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -367,6 +369,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
