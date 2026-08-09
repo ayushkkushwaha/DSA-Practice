@@ -338,6 +338,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -360,6 +361,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0113-path-sum-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -378,6 +380,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0113-path-sum-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Hash Function
@@ -388,4 +391,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
