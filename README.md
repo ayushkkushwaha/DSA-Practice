@@ -352,6 +352,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -367,6 +368,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -401,5 +403,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
