@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -215,6 +216,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -223,6 +225,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0054-spiral-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -350,6 +353,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0100-same-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -365,6 +369,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
