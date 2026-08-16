@@ -112,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1539-kth-missing-positive-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
@@ -227,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0074-search-a-2d-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -359,6 +361,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
