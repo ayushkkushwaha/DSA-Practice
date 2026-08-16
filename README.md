@@ -99,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0118-pascals-triangle](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0162-find-peak-element) |
@@ -217,6 +218,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -226,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0054-spiral-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -355,6 +358,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0100-same-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -372,6 +376,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
