@@ -110,6 +110,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -220,6 +221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0128-longest-consecutive-sequence](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -231,6 +233,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0130-surrounded-regions](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -363,6 +366,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0404-sum-of-left-leaves](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -383,6 +387,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0572-subtree-of-another-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
