@@ -223,6 +223,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -373,6 +374,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
@@ -397,6 +399,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -436,6 +439,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
@@ -451,8 +455,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
