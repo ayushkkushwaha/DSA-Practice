@@ -222,6 +222,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0130-surrounded-regions](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -369,6 +370,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -392,6 +394,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -430,6 +433,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0207-course-schedule](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -443,4 +447,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0207-course-schedule](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0210-course-schedule-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
