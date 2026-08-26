@@ -291,6 +291,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Recursion
 |  |
 | ------- |
@@ -312,6 +313,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
