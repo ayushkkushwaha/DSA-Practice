@@ -118,6 +118,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1539-kth-missing-positive-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
@@ -161,6 +162,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0875-koko-eating-bananas](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -237,6 +240,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -271,6 +275,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0743-network-delay-time](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -380,6 +385,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -405,6 +411,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -475,4 +482,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
