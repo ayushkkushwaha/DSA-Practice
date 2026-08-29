@@ -197,6 +197,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Simulation
 |  |
 | ------- |
@@ -273,6 +274,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -381,6 +383,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
@@ -408,6 +411,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0695-max-area-of-island](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
@@ -450,6 +454,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0210-course-schedule-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0886-possible-bipartition) |
@@ -478,6 +483,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
