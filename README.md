@@ -119,6 +119,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1046-last-stone-weight](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1539-kth-missing-positive-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
@@ -329,6 +330,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Interactive
 |  |
 | ------- |
