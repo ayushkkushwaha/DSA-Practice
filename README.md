@@ -124,6 +124,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +256,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0231-power-of-two](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
