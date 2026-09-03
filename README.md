@@ -248,6 +248,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0069-sqrtx) |
