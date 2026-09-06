@@ -125,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayuuuushh/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ayuuuushh/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -329,6 +330,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [3903-smallest-stable-index-i](https://github.com/Ayuuuushh/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
