@@ -498,4 +498,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0743-network-delay-time](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
