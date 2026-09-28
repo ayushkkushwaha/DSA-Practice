@@ -304,6 +304,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0344-reverse-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -350,6 +351,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0901-online-stock-span](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -509,4 +511,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
