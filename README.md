@@ -300,6 +300,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -348,6 +349,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0901-online-stock-span](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -510,6 +512,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayuuuushh/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
