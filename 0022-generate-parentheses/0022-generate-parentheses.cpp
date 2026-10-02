@@ -2,12 +2,12 @@ class Solution {
 public:
     void genPos(int open, int close, string temp, int n, vector<string>& res) {
 
+        cout << open << " " << close << endl;
+
         if (temp.size() == n * 2) {
             res.push_back(temp);
             return;
         }
-
-        cout << open << " " << close << endl;
 
         if (open < n) {
             temp.push_back('(');
